@@ -51,6 +51,7 @@ Are you financially prepared to retire at your desired age? The simulator provid
 4. Click the "Run Simulation" button to generate simulation results and the earliest retirement age estimation.
 
 ## Screenshots
+![Screenshot from 2023-08-11 12-58-54](https://github.com/manavmalhotra123/Retirement---simulator/assets/110531978/83c6fcec-5965-4a0a-b461-a5044f0975a1)
 
 
 
